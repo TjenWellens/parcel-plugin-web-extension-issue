@@ -15,6 +15,6 @@
     }
   ],
   "web_accessible_resources": [
-    "*.html"
+    "foo/*.html"
   ]
 }

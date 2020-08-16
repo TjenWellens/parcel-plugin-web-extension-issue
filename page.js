@@ -1,4 +1,4 @@
-import pageSnippetHtml from './page-snippet.html'
+import pageSnippetHtml from './foo/page-snippet.html'
 import $ from "jquery";
 
 $(document).ready(() => {
